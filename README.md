@@ -1,4 +1,4 @@
-//what github told me to do//
+Welcome to my repository X)
 # awesomegame-2.0
 echo "# awesomegame-2.0" >> README.md
 git init
